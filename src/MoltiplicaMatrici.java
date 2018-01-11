@@ -6,9 +6,9 @@ public class MoltiplicaMatrici {
 	    
 		//definisco la matrice A
 		int A[][] = {
-	    		{1, 2, -2},
-	    		{-3, 4, 7}, 
-	    		{ 6, 0, 3}
+	    		{-1, 5, 5},
+	    		{-4, 9, 6}, 
+	    		{6, -8, 3}
 	    };
 		//definisco la matrice B
 		int B[][] = {
